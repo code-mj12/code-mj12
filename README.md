@@ -1,4 +1,4 @@
-#Hello, I'm Majid Ahmad, an AI enthusiast turning ideas into reality with code! 🚀
+# Hello, I'm Majid Ahmad, an AI enthusiast turning ideas into reality with code! 🚀
 
 🔭 I'm an AI graduate based in Islamabad, Pakistan 🇵🇰, aspiring to be an ML Engineer with a strong passion for Machine Learning, Deep Learning, and Computer Vision.
 
