@@ -15,6 +15,8 @@
 - **Machine Learning / Deep Learning**: PyTorch, Tensorflow, Scikit-learn, Streamlit, NLP, Computer Vision, CNN, LSTM, Transformers, OCR
 - **Tools**: AWS, GitHub, Google Colab, Kaggle, Jupyter, Hugging Face, Weights & Biases, MLflow, DVC, Airflow
 
+
+## My GitHub Statistics
 <p align="center">
     <a href="https://github.com/code-mj12">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=code-mj12&show_icons=true&theme=radical&include_all_commits=true"/>
@@ -25,7 +27,8 @@
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-mj12&layout=compact&theme=radical"/>
     </a>
 </p>
-🔥 Streak Stats
+
+## 🔥 Streak Stats
 <p align="center">
     <a href="https://github.com/code-mj12">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-mj12&theme=radical" alt="code-mj12" />
