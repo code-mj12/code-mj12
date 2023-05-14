@@ -1,12 +1,20 @@
-# Welcome to Majid Ahmad's GitHub Repository! 🚀
+# 👋 Hello, I'm Majid Ahmad Khan!
 
-🔭 I'm an AI graduate based in Islamabad, Pakistan 🇵🇰, and my aspiration is to become an ML Engineer. I have a strong passion for Machine Learning, Deep Learning, and Computer Vision.
+## 🧠 Data Scientist | 💻 AI/ML Developer 
 
-🌱  I'm particularly captivated by the transformative potential of Deep Learning. From CNNs and LSTMs to Transformers, I've immersed myself in understanding these models and applying them to real-world challenges.
+I am a passionate AI practitioner with a strong focus on **Machine Learning**, **Deep Learning**, and **Computer Vision**. With fluency in **Python** and **C++**, I love to transform data into actionable insights and build intelligent solutions. 
 
-🔍 t present, my focus is on delving deep into the world of Machine Learning Operations (MLOps) with the help of tools like Airflow, MLflow, Jenkins, and others. It's about more than just deploying machine learning models; it's about streamlining the process, improving efficiency, and fostering collaboration to revolutionize how we interact with technology.
+### 🚀 Skills 
 
-💡 My interest isn't confined to just learning. I enjoy sharing my knowledge and insights too. That's why I regularly write about various Machine Learning topics on Medium.
+I am skilled in using **NumPy**, **Pandas**, **Pytorch**, **Scikit-learn**, **Transformers**, **AWS**, **Jupyter**, **Tensorflow**, and more for problem-solving. My web tech expertise involves **Django**, **HTML/CSS**, **Bootstrap**, **NodeJS**, and **Docker**. I have also used **Selenium**, **Beautiful Soup**, **Requests**, and **Scrapy** for web scraping and testing tasks.
+
+### 🔭 Future Interests 
+
+In the future, I am interested in diving deeper into **MLOPS** to bridge the gap between Machine Learning and Operations, aiming to streamline the deployment, monitoring, and maintenance of ML models in production.
+
+### 🌐 Contributions 
+
+As an active member of the tech community, I contribute to **Kaggle**, **GitHub**, and **Mozilla Common Voice**. 
 
 ## Languages and Tools
 
